@@ -1,4 +1,5 @@
-# Blur
+
+#  Blur
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/adc158b9-8ec4-4e5a-b372-ed1fad9d8d61" width="30%" />
